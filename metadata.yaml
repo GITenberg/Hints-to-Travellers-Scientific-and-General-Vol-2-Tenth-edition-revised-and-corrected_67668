@@ -1,0 +1,38 @@
+_repo: Hints-to-Travellers-Scientific-and-General-Vol-2-Tenth-edition-revised-and-corrected_67668
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Royal Geographical Society (Great Britain)
+    aliases:
+    - RGS
+    - Royal Geographic Society (Great Britain)
+    - Royal Geographical Society, London
+    gutenberg_agent_id: '54408'
+    url: http://www.gutenberg.org/2009/agents/54408
+    wikipedia: https://en.wikipedia.org/wiki/Royal_Geographical_Society
+  editor:
+    agent_name: Reeves, Edward Ayearst
+    alias: Reeves, E. A.
+    birthdate: 1862
+    deathdate: 1945
+    gutenberg_agent_id: '54388'
+    url: http://www.gutenberg.org/2009/agents/54388
+description: ''
+gutenberg_issued: '2022-03-20'
+identifiers:
+  gutenberg: '67668'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Topographical surveying'
+- !lcc 'Q'
+- !lcsh 'Spherical astronomy'
+- !lcsh 'Scientific expeditions -- Handbooks, manuals, etc.'
+- GITenberg
+tableOfContents: Meteorology, photography, geology, industry and commerce, archæology,
+  medical, etc.
+title: "Hints to Travellers, Scientific and General, Vol. 2\r\nTenth edition, revised\
+  \ and corrected"
+url: http://www.gutenberg.org/ebooks/67668
